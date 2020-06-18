@@ -1,0 +1,1 @@
+console.log(`This is where I will practice arrays`)
